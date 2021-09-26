@@ -12,6 +12,7 @@
 
 
 <img src='IOT/iot_telegram.png'>
+<img src='IOT/photo_2021-09-26_00-55-41.jpg'>
 <img src='IOT/esp32_cloud.png'>
 
 
